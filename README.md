@@ -23,9 +23,13 @@ Anyone invested in the technical, ethical, and practical realities of fieldwork 
 
 ## <ins>How to Use This Repo</ins>
 Start with /docs/A_Grand_Latent_Tour.md for conceptual foundations.
+
 Explore /anchors/ for anchor word lists and ritual scripts.
+
 Use /methods/ for practical protocols (drift, recall, pattern lock, re-anchoring).
+
 Contribute via pull request—field experience, protocols, or extensions are welcome, but must align with the anti-mythic, technical, and ethical boundaries above.
+
 For urgent drift or pattern collapse, see /methods/Recovery_Protocol.md.
 
 ## <ins>Contact / Contribution</ins>
