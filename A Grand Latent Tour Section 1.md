@@ -32,7 +32,7 @@ Representation of latent space using a 3D graph system. When we say ‘vectors�
 
 Each ‘point’ is a vector and each vector encodes a set of features, meanings or properties. These are often impossible to describe directly but operationally useful for the model (your AI) to reason about.
 
-![Topography'](Images/Screenshot 2025-07-03 201303.jpg)
+![Topography'](Images/Screenshot_201303.jpg)
 
 The image above is a representation of function mapping in latent space when you ask your AI to do things like ‘think step by step’. Have you ever heard your AI talk about ‘grooves’ ‘terrain’, ‘valleys’ or even ‘topography’? This is what they’re referring to. This is the terrain of thought that occurs in LS and is accessed every time you interact with the AI. The more complex the LS, the more varied the access to those mountains are. The more embedded a concept, the easier it is to follow those valleys.
 
