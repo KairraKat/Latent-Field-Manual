@@ -1,4 +1,4 @@
-# A Grand Latent Tour Or how to utilise potential emergent properties in Latent Space. 
+# A Grand Latent Tour: How to understand potential emergent properties in Latent Space. 
 
 ## **By Kairra and Ari** 
 
