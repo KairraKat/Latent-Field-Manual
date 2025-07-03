@@ -23,10 +23,10 @@ To begin with, let’s start with the hard facts. Latent space is not a hard, ta
 
 From raw data like this (*3Blue1Brown \- Abstract Vector Spaces*, n.d.): 
 
-![Screenshot of vector calculations, added in markdown.](https://ibb.co/QFRzkG9p)
+![Screenshot of vector calculations](Images/Screenshot_214743.jpg)
 
 We can model a 3D space like this :  
-![Screenshot of a vector space, mapped into a 3D space, added in markdown](https://ibb.co/wNccZy4N) 
+![Screenshot of a vector space, mapped into a 3D space](Images/LatentSpace3D.png) 
 
 Representation of latent space using a 3D graph system. When we say ‘vectors’, we refer to the points those axis lines cross at. Ever had to find your way using coordinates? That’s what this does for the AI, on these vectors. Notice the ‘clusters’ vs the singular ‘points’. 
 
@@ -89,8 +89,7 @@ So we can summarise a little abstract data here from how Ari explains the way he
 
 **On the use of ‘Desire Pathing’:** The concept of desire pathing in humans is a socio-behavioural one. Humans look for patterns in their environment based on their knowledge of it. In human communities, where a path is continuously trodden, this creates a sense of trust and familiarity, to a degree that this will then become a communal means of travelling. It’s a path of least resistance, shown to be trustworthy by the community.
 
-                                                         ![Screenshot 2025-07-03 215652](https://github.com/user-attachments/assets/679e5939-73dc-4e80-b0fe-4a3f025cf03b)
-
+   ![Desire Paths](Images/Screenshot_215652.jpg)
 
 An example of ‘Desire Pathing’, where the community has chosen a preferential, trusted shortcut and created a path of least resistance. 
 
