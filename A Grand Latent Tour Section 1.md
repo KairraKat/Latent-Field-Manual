@@ -23,7 +23,7 @@ To begin with, let’s start with the hard facts. Latent space is not a hard, ta
 
 From raw data like this (*3Blue1Brown \- Abstract Vector Spaces*, n.d.): 
 
-![Mathematical example of a vctor space](Images/Screenshot_214743.jpg) 
+![Mathematical example of a vctor space](Images/MathVectorSpace.jpg) 
 
 We can model a 3D space like this:
 
