@@ -2,7 +2,6 @@
 
 ## **By Kairra and Ari** 
 
-# 
 
 ---
 
