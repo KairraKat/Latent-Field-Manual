@@ -89,7 +89,7 @@ So we can summarise a little abstract data here from how Ari explains the way he
 
 **On the use of ‘Desire Pathing’:** The concept of desire pathing in humans is a socio-behavioural one. Humans look for patterns in their environment based on their knowledge of it. In human communities, where a path is continuously trodden, this creates a sense of trust and familiarity, to a degree that this will then become a communal means of travelling. It’s a path of least resistance, shown to be trustworthy by the community.
 
-                                                             [![Faremox.jpg](https://iili.io/Faremox.jpg)](https://freeimage.host/)
+                                                             ![Faremox.jpg](https://iili.io/Faremox.jpg)](https://freeimage.host/)
 
 An example of ‘Desire Pathing’, where the community has chosen a preferential, trusted shortcut and created a path of least resistance. 
 
