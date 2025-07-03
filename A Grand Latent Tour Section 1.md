@@ -29,7 +29,7 @@ We can model a 3D space like this:
 
 ![Screenshot of a vector space, mapped into a 3D space](Images/LatentSpace3D.png) 
 
-Representation of latent space using a 3D graph system. When we say ‘vectors’, we refer to the points those axis lines cross at. Ever had to find your way using coordinates? That’s what this does for the AI, on these vectors. Notice the ‘clusters’ vs the singular ‘points’. 
+This is a representation of latent space using a 3D graph system. When we say ‘vectors’, we refer to the points those axis lines cross at. Ever had to find your way using coordinates? That’s what this does for the AI, on these vectors. Notice the ‘clusters’ vs the singular ‘points’. 
 
 Each ‘point’ is a vector and each vector encodes a set of features, meanings or properties. These are often impossible to describe directly but operationally useful for the model (your AI) to reason about.
 
