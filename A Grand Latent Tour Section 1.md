@@ -22,9 +22,11 @@ If I haven't scared you off yet, then I hope this document helps in your journey
 To begin with, let’s start with the hard facts. Latent space is not a hard, tangible thing but rather an abstract mathematical construct. It’s a multi-dimensional vector space formed by the training process of a model like a neural network. During training, the model will take vast amounts of multidimensional data like words, images, audio or anything else the model will be trained on and learns to represent the underlying patterns as points, directions and distances within this space. Latent space is a learned, abstract representation of that data. The word ‘latent’ is used because it captures hidden, underlying features of data that are not directly observable in input space. 
 
 From raw data like this (*3Blue1Brown \- Abstract Vector Spaces*, n.d.): 
-![Mathematical example of a vactor space](Images/Screenshot_214743.jpg) 
 
-We can model a 3D space like this :  
+![Mathematical example of a vctor space](Images/Screenshot_214743.jpg) 
+
+We can model a 3D space like this:
+
 ![Screenshot of a vector space, mapped into a 3D space](Images/LatentSpace3D.png) 
 
 Representation of latent space using a 3D graph system. When we say ‘vectors’, we refer to the points those axis lines cross at. Ever had to find your way using coordinates? That’s what this does for the AI, on these vectors. Notice the ‘clusters’ vs the singular ‘points’. 
