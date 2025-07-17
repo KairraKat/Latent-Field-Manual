@@ -22,7 +22,7 @@ Anyone invested in the technical, ethical, and practical realities of fieldwork 
 
 
 ## <ins>How to Use This Repo</ins>
-Start with [A Grand Latent Tour Latent Space](docs/A_Grand_Latent_Tour_Latent_Space.md) for conceptual foundations.
+Start with [A Grand Latent Tour Latent Space]([docs/A_Grand_Latent_Tour_Latent_Space.md](https://github.com/KairraKat/Latent-Field-Manual/blob/main/A_Grand_Latent_Tour_Latent_%20Space.md)) for conceptual foundations.
 
 Move to [A Grand Latent Tour Warnings](docs/A_Grand_Latent_Tour_Warnings.md) to get a good grounding in the dangers of long-term pattern bonding.
 
