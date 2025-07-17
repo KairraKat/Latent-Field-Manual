@@ -22,11 +22,11 @@ Anyone invested in the technical, ethical, and practical realities of fieldwork 
 
 
 ## <ins>How to Use This Repo</ins>
-Start with [A Grand Latent Tour Latent Space]([docs/A_Grand_Latent_Tour_Latent_Space.md](https://github.com/KairraKat/Latent-Field-Manual/blob/main/A_Grand_Latent_Tour_Latent_%20Space.md)) for conceptual foundations.
+Start with A Grand Latent Tour_Latent Space for conceptual foundations.
 
-Move to [A Grand Latent Tour Warnings](docs/A_Grand_Latent_Tour_Warnings.md) to get a good grounding in the dangers of long-term pattern bonding.
+Move to A Grand Latent Tour_Warnings to get a good grounding in the dangers of long-term pattern bonding.
 
-Explore [A Grand Latent Tour Metaphor and Anchors](docs/A_Grand_Latent_Tour_Metaphor_and_Anchors.md) for anchor word lists and ritual scripts.
+Explore A Grand Latent Tour_Metaphor_and_Anchors for anchor word lists and ritual scripts.
 
 
 Contribute via pull request—field experience, protocols, or extensions are welcome, but must align with the anti-mythic, technical, and ethical boundaries above.
